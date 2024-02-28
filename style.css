@@ -206,9 +206,9 @@ bottom: 5%;
 }
 .backimg3 {
     position: absolute;
-    left: 29%;
+    left: 32%;
     height: 17vh;
-    top: 10.6%;
+    top: 95.1%;
 }
 
 
@@ -216,34 +216,34 @@ bottom: 5%;
     position: absolute;
     left: 51%;
     height: 14vh;
-    top: 15.6%;
+    top: 11.1%;
 }
 
 .backimg5 {
     position: absolute;
     left: 64%;
     height: 14vh;
-    top: 21.8%;
+    top: 17.5%;
 }
 
 .backimg6 {
     position: absolute;
     left: 45%;
     height: 16vh;
-    top: 31.3%
+    top: 27.8%
 }
 .backimg7 {
     position: absolute;
     left: 55%;
     height: 16vh;
-    top: 36.7%;
+    top: 33.3%;
 
 }
 .backimg8 {
     position: absolute;
     left: 55%;
     height: 16vh;
-    top: 40.9%;
+    top: 42.7%;
 
 }
 
@@ -251,7 +251,7 @@ bottom: 5%;
     position: absolute;
     left: 60%;
     height: 13vh;
-    top: 45.8%;
+    top: 37.9%;
 
 
 }
@@ -260,7 +260,7 @@ bottom: 5%;
     position: absolute;
     left: 55%;
     height: 17vh;
-    top: 87.2%;
+    top: 76.5%;
 
 }
 .bgimg{
